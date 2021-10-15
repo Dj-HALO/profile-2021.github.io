@@ -35,7 +35,7 @@ p {
 	line-height:22px;
 }
 .hl{
-    color: black		;
+    color: blacks		;
     line-height: 30px;
 }
 .fb{color: #FF3300 !important;}
@@ -424,13 +424,13 @@ padding:50px 0;
 background:#fff;
 }
 
-#aboutme .txtHead{
+#inspiration .txtHead{
 
 /* padding:20px 10px; */
 background-repeat: no-repeat;
 background-position :center;
 }
-#aboutme.secPad{
+#inspiration.secPad{
     background-image: url('https://nhandan.vn/imgold/media/k2/items/src/2244/e306872a7f152beef371a56cf49072f4.jpg');
     background-size:cover;
     background-attachment:scroll;
